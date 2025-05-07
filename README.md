@@ -1,5 +1,5 @@
 # The Quantum Interpreter
-This is my attempt at an interpreter quantum computing programming langauge, for the purposes of my Computer Science senior project at Bard College. This is a functioning, albeit incomplete implementation. 
+This is my attempt at an interpreted quantum computing programming langauge, for the purposes of my Computer Science senior project at Bard College. This is a functioning, albeit incomplete implementation. 
 
 # Overview
 This project allows you to:
